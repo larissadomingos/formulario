@@ -1,8 +1,11 @@
 
-td, th {
+ th {
 
-    border: 1px solid #000000;
+    border: 1px solid;
     
-    border-color: cor;
+    border-color:black;
     
     }
+body( 
+      background: green; 
+)
